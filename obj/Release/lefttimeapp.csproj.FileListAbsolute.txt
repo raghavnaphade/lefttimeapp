@@ -1,0 +1,17 @@
+D:\lefttimeapp\bin\Release\lefttimeapp.exe
+D:\lefttimeapp\bin\Release\lefttimeapp.exe.config
+D:\lefttimeapp\obj\Release\lefttimeapp.csproj.AssemblyReference.cache
+D:\lefttimeapp\obj\Release\lefttimeapp.Form1.resources
+D:\lefttimeapp\obj\Release\lefttimeapp.Properties.Resources.resources
+D:\lefttimeapp\obj\Release\lefttimeapp.csproj.GenerateResource.cache
+D:\lefttimeapp\obj\Release\lefttimeapp.csproj.CoreCompileInputs.cache
+D:\lefttimeapp\obj\Release\lefttimeapp.exe
+D:\lefttimeapp\obj\Release\lefttimeapp.pdb
+D:\lefttimeapp\bin\Release\lefttimeapp.pdb
+D:\lefttimeapp\bin\Release\Newtonsoft.Json.dll
+D:\lefttimeapp\bin\Release\Newtonsoft.Json.xml
+D:\lefttimeapp\obj\Release\lefttimeapp.csproj.CopyComplete
+D:\lefttimeapp\bin\Release\lefttimeapp.exe.manifest
+D:\lefttimeapp\bin\Release\lefttimeapp.application
+D:\lefttimeapp\obj\Release\lefttimeapp.exe.manifest
+D:\lefttimeapp\obj\Release\lefttimeapp.application
